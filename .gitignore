@@ -1,6 +1,7 @@
 .DS_Store
 .env
 .env.ps1
+.env.example
 target/
 pom.xml.tag
 pom.xml.releaseBackup
